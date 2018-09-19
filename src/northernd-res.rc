@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Northern"
-            VALUE "FileDescription",    "northernd (OSS daemon/client for Northern)"
+            VALUE "CompanyName",        "Acre"
+            VALUE "FileDescription",    "acred (OSS daemon/client for Acre)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "northernd"
+            VALUE "InternalName",       "acred"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "northernd.exe"
-            VALUE "ProductName",        "northernd"
+            VALUE "OriginalFilename",   "acred.exe"
+            VALUE "ProductName",        "acred"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -6,7 +6,7 @@
 #define BITCOIN_ZMQ_ZMQCONFIG_H
 
 #if defined(HAVE_CONFIG_H)
-#include "config/northern-config.h"
+#include "config/acre-config.h"
 #endif
 
 #include <stdarg.h>

@@ -257,6 +257,6 @@
     </message>
     </context>
 <context>
-    <name>northern-core</name>
+    <name>acre-core</name>
     </context>
 </TS>

@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Northern"
-            VALUE "FileDescription",    "northern-cli (OSS RPC client for Northern)"
+            VALUE "CompanyName",        "Acre"
+            VALUE "FileDescription",    "acre-cli (OSS RPC client for Acre)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "northern-cli"
+            VALUE "InternalName",       "acre-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "northern-cli.exe"
-            VALUE "ProductName",        "northern-cli"
+            VALUE "OriginalFilename",   "acre-cli.exe"
+            VALUE "ProductName",        "acre-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

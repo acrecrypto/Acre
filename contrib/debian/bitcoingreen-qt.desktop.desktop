@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Northern
-Comment=Northern P2P Cryptocurrency
-Exec=northern-qt %u
+Name=Acre
+Comment=Acre P2P Cryptocurrency
+Exec=acre-qt %u
 Terminal=false
 Type=Application
-Icon=northern128
-MimeType=x-scheme-handler/northern;
+Icon=acre128
+MimeType=x-scheme-handler/acre;
 Categories=Office;Finance;
-Name[en_US]=northern-qt.desktop
+Name[en_US]=acre-qt.desktop

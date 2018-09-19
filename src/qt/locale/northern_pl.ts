@@ -144,8 +144,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR NORT&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE NORT!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ACRE&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE ACRE!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -223,8 +223,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this NORT address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres NORT jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this ACRE address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ACRE jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -514,16 +514,16 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>&amp;Rdzeń Northern</translation>
+        <source>Acre Core</source>
+        <translation>&amp;Rdzeń Acre</translation>
     </message>
     <message>
-        <source>Send coins to a NORT address</source>
-        <translation>Wyślij monety do adresu NORT</translation>
+        <source>Send coins to a ACRE address</source>
+        <translation>Wyślij monety do adresu ACRE</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and northern: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i northern:URI)</translation>
+        <source>Request payments (generates QR codes and acre: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i acre:URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -534,24 +534,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Northern Core</source>
+        <source>&amp;About Acre Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about Northern Core</source>
+        <source>Show information about Acre Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for Northern</source>
-        <translation>Modyfikuj opcje konfiguracji Northern</translation>
+        <source>Modify configuration options for Acre</source>
+        <translation>Modyfikuj opcje konfiguracji Acre</translation>
     </message>
     <message>
-        <source>Sign messages with your NORT addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami NORT, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your ACRE addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami ACRE, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified NORT addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu NORT</translation>
+        <source>Verify messages to ensure they were signed with specified ACRE addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu ACRE</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -578,8 +578,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a northern: URI or payment request</source>
-        <translation>Otwórz northern: URI i żądanie zapłaty</translation>
+        <source>Open a acre: URI or payment request</source>
+        <translation>Otwórz acre: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -590,12 +590,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Northern Core help message to get a list with possible Northern command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Northern, aby dostać listę możliwych opcji Northern command-line</translation>
+        <source>Show the Acre Core help message to get a list with possible Acre command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia Acre, aby dostać listę możliwych opcji Acre command-line</translation>
     </message>
     <message>
-        <source>Northern Core client</source>
-        <translation>Rdzeń Northern klient</translation>
+        <source>Acre Core client</source>
+        <translation>Rdzeń Acre klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -904,8 +904,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Northern Core</source>
-        <translation>&amp;Rdzeń Northern</translation>
+        <source>Acre Core</source>
+        <translation>&amp;Rdzeń Acre</translation>
     </message>
     </context>
 <context>
@@ -919,8 +919,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>&amp;Rdzeń Northern</translation>
+        <source>Acre Core</source>
+        <translation>&amp;Rdzeń Acre</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1161,12 +1161,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start Northern after logging in to the system.</source>
-        <translation>Automatycznie uruchom Northern po zalogowaniu do systemu</translation>
+        <source>Automatically start Acre after logging in to the system.</source>
+        <translation>Automatycznie uruchom Acre po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start Northern on system login</source>
-        <translation>&amp;Uruchom Northern podczas logowania do systemu</translation>
+        <source>&amp;Start Acre on system login</source>
+        <translation>&amp;Uruchom Acre podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1185,12 +1185,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Northern.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Northern</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Acre.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Acre</translation>
     </message>
     <message>
-        <source>Connect to the Northern network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Northern poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the Acre network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią Acre poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1361,8 +1361,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a NORT address (e.g. %1)</source>
-        <translation>Wprowadź adres NORT (np. %1)</translation>
+        <source>Enter a ACRE address (e.g. %1)</source>
+        <translation>Wprowadź adres ACRE (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1800,8 +1800,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this NORT address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres NORT jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this ACRE address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ACRE jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1835,8 +1835,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Northern Core</source>
-        <translation>&amp;Rdzeń Northern</translation>
+        <source>Acre Core</source>
+        <translation>&amp;Rdzeń Acre</translation>
     </message>
     </context>
 <context>
@@ -1927,7 +1927,7 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
     </message>
     </context>
 <context>
-    <name>northern-core</name>
+    <name>acre-core</name>
     <message>
         <source>Error</source>
         <translation>Błąd</translation>

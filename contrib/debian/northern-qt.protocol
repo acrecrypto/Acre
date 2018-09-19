@@ -1,6 +1,6 @@
 [Protocol]
-exec=northern-qt '%u'
-protocol=northern
+exec=acre-qt '%u'
+protocol=acre
 input=none
 output=none
 helper=true

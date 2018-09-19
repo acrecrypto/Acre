@@ -42,12 +42,12 @@
         <file alias="tx_input">res/icons/tx_input.png</file>
         <file alias="tx_output">res/icons/tx_output.png</file>
         <file alias="tx_inout">res/icons/tx_inout.png</file>
-        <file alias="unit_nort">res/icons/unit_nort.png</file>
-        <file alias="unit_mnort">res/icons/unit_mnort.png</file>
-        <file alias="unit_unort">res/icons/unit_unort.png</file>
-        <file alias="unit_tnort">res/icons/unit_tnort.png</file>
-        <file alias="unit_tmnort">res/icons/unit_tmnort.png</file>
-        <file alias="unit_tunort">res/icons/unit_tunort.png</file>
+        <file alias="unit_acre">res/icons/unit_acre.png</file>
+        <file alias="unit_macre">res/icons/unit_macre.png</file>
+        <file alias="unit_uacre">res/icons/unit_uacre.png</file>
+        <file alias="unit_tacre">res/icons/unit_tacre.png</file>
+        <file alias="unit_tmacre">res/icons/unit_tmacre.png</file>
+        <file alias="unit_tuacre">res/icons/unit_tuacre.png</file>
         <file alias="lock_closed">res/icons/lock_closed.png</file>
         <file alias="lock_open">res/icons/lock_open.png</file>
         <file alias="key">res/icons/key.png</file>
@@ -62,7 +62,7 @@
         <file alias="default">res/css/default.css</file>
     </qresource>
     <qresource prefix="/images">
-        <file alias="northern_logo_horizontal">res/images/northern_logo_horizontal.png</file>
+        <file alias="acre_logo_horizontal">res/images/acre_logo_horizontal.png</file>
         <file alias="about">res/images/about.png</file>
         <file alias="downArrow_small">res/images/downArrow_small_dark.png</file>
         <file alias="downArrow_small_white">res/images/downArrow_small.png</file>

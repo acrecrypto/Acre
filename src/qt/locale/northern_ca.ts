@@ -164,8 +164,8 @@
         <translation>Estàs segur que vols encriptar el moneder?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR NORT&lt;/b&gt;!</source>
-        <translation>Avís: Si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES NORTS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ACRE&lt;/b&gt;!</source>
+        <translation>Avís: Si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES ACRES&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -354,12 +354,12 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>Northern</source>
-        <translation>Northern</translation>
+        <source>Acre</source>
+        <translation>Acre</translation>
     </message>
     <message>
-        <source>&amp;About Northern</source>
-        <translation>&amp;Sobre Northern</translation>
+        <source>&amp;About Acre</source>
+        <translation>&amp;Sobre Acre</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -552,12 +552,12 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Acre Core</source>
+        <translation>Acre Core</translation>
     </message>
     <message>
-        <source>About Northern Core</source>
-        <translation>Sobre Northern Core</translation>
+        <source>About Acre Core</source>
+        <translation>Sobre Acre Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -575,12 +575,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to Northern Core.</source>
-        <translation>Benvingut a Northern Core.</translation>
+        <source>Welcome to Acre Core.</source>
+        <translation>Benvingut a Acre Core.</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Acre Core</source>
+        <translation>Acre Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1101,8 +1101,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Acre Core</source>
+        <translation>Acre Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -1253,7 +1253,7 @@
     </message>
     </context>
 <context>
-    <name>northern-core</name>
+    <name>acre-core</name>
     <message>
         <source>Error</source>
         <translation>Error</translation>

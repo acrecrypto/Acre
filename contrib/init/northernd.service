@@ -1,19 +1,19 @@
 [Unit]
-Description=Northern's distributed currency daemon
+Description=Acre's distributed currency daemon
 After=network.target
 
 [Service]
-User=northern
-Group=northern
+User=acre
+Group=acre
 
 Type=forking
-PIDFile=/var/lib/northernd/northernd.pid
+PIDFile=/var/lib/acred/acred.pid
 
-ExecStart=/usr/bin/northernd -daemon -pid=/var/lib/northernd/northernd.pid \
-          -conf=/etc/northern/northern.conf -datadir=/var/lib/northernd
+ExecStart=/usr/bin/acred -daemon -pid=/var/lib/acred/acred.pid \
+          -conf=/etc/acre/acre.conf -datadir=/var/lib/acred
 
-ExecStop=-/usr/bin/northern-cli -conf=/etc/northern/northern.conf \
-         -datadir=/var/lib/northernd stop
+ExecStop=-/usr/bin/acre-cli -conf=/etc/acre/acre.conf \
+         -datadir=/var/lib/acred stop
 
 Restart=always
 PrivateTmp=true

@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: northernd.service
-Upstart: northernd.conf
-OpenRC:  northernd.openrc
-         northernd.openrcconf
-CentOS:  northernd.init
+SystemD: acred.service
+Upstart: acred.conf
+OpenRC:  acred.openrc
+         acred.openrcconf
+CentOS:  acred.init
 
 have been made available to assist packagers in creating node packages here.
 
