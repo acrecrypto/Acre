@@ -17,14 +17,14 @@
 
 ### Block reward breakdown (Block height - Reward per block)
 #
-#### Block 201-20,000	  -   *1.000 ACRE*
+#### Block 201 - 20,000	  -   *1.000 ACRE*
 
-#### Block 20,001-40,000   -   *2.500 ACRE*
+#### Block 20,001 - 40,000   -   *2.500 ACRE*
 
-#### Block 40,001-60,000  -   *5.000 ACRE*
+#### Block 40,001 - 60,000  -   *5.000 ACRE*
 
-#### Block 60,001-80,000  -   *2.500 ACRE*
+#### Block 60,001 - 80,000  -   *2.500 ACRE*
 
-#### Block 80,001-7,060,212  -  *1.000 ACRE*
+#### Block 80,001 - 7,060,212  -  *1.000 ACRE*
 
 
