@@ -110,16 +110,11 @@ public:
         nTargetSpacing = 1 * 60;  // Acre: 1 minute blocks during POW (block 1-200)
         nMaturity = 5; // 6 block maturity (+1 elsewhere)
         nMasternodeCountDrift = 20;
-        nMaxMoneyOut = 10000000 * COIN; // 5 million max supply
+        nMaxMoneyOut = 10000000 * COIN; // 10 million max supply
 
         /** Height or Time Based Activations **/
         nLastPOWBlock = 200;
         nModifierUpdateBlock = 1; // we use the version 2 for ACRE
-
-        /*
-         * python ~/genesis.py -a quark-hash -z "Bitcoin now uses as much energy as Ireland - businessgreen 21/05/2018" -t 1526928414 -v 0 -p 04f5a8143f86ad8ac63791fbbdb8e0b91a8da88c8c693a95f6c2c13c063ea790f7960b8025a9047a7bc671d5cfe707a2dd2e13b86182e1064a0eea7bf863636363
-
-         */
 
         const char* pszTimestamp = "Acre has launched, again! - Community Manager 20/09/2018";
         CMutableTransaction txNew;
@@ -139,10 +134,6 @@ public:
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == uint256("0x00000131594ac2c11b38e1bb83788f3e1d838108a28775e69c60eb983b354de9"));
         assert(genesis.hashMerkleRoot == uint256("0xa699e5dce1ce9891975ec3d5eefdd83084db17d4a89f9222548c05e3476ea037"));
-
-        // DNS Seeding
-        //vSeeds.push_back(CDNSSeedData("", ""));
- 
 
         // Acre addresses start with 'a'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 83);
@@ -217,7 +208,6 @@ public:
         genesis.nNonce = 21256609;
 
         hashGenesisBlock = genesis.GetHash();
-       // assert(hashGenesisBlock == uint256("0x000008467c3a9c587533dea06ad9380cded3ed32f9742a6c0c1aebc21bf2bc9b"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -287,7 +277,6 @@ public:
 
         hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 25858;
-       // assert(hashGenesisBlock == uint256("0x229874aa8a92df3347600978e226ba57bc994b9fa291ea50519afafca2d50ed3"));
 
         vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
         vSeeds.clear();      //! Regtest mode doesn't have any DNS seeds.
